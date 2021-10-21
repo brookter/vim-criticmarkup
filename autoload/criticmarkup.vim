@@ -21,7 +21,8 @@ function! criticmarkup#InjectHighlighting()
     hi link criticSubstitutionDeletion criticDeletion
     hi link criticSubstitutionAdditionMark criticAddition
     hi link criticSubstitutionDeletionMark criticDeletion
-    hi criticMeta guibg=#0099FF guifg=#101010 ctermbg=33 ctermfg=16
+    " hi criticMeta guibg=#0099FF guifg=#101010 ctermbg=33 ctermfg=16
+    hi criticMeta guibg=#000000 guifg=#cccccc ctermbg=33 ctermfg=16 cterm=italic
     hi criticHighlighter guibg=#ffff00 guifg=#101010 ctermbg=11 ctermfg=16
     hi link criticComment criticMeta
     hi link criticHighlight criticHighlighter
