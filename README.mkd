@@ -7,7 +7,7 @@ and `txt` filetypes.
 
 ![screenshot](http://i.imgur.com/cdlK1ek.png)
 
-Fork by Brookter: this is intended just to change some of the garish default colour choices. I hope it doesn't break anything else....
+Fork by Brookter: this is intended just to change some of the garish default colour choices. I hope it doesn't break anything else.... I'd stick with the original if I were you. Much safer.
 
 ## Basic syntax
 
