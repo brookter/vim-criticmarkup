@@ -7,6 +7,8 @@ and `txt` filetypes.
 
 ![screenshot](http://i.imgur.com/cdlK1ek.png)
 
+Fork by Brookter: this is intended just to change some of the garish default colour choices. I hope it doesn't break anything else....
+
 ## Basic syntax
 
 criticmarkup can be used to annotate additions, deletions, substitutions,
